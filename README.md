@@ -11,7 +11,7 @@
 <p align="center" style="max-width: 600px;">
   Hi there, welcome to my digital workspace. 🌑
   <br/><br/>
-  My journey began on the canvas of <b>Graphic Design</b>, evolved through the systems of <b>UI/UX</b>, and has now arrived at the frontier of <b>Vibe Coding</b>.
+  My journey began on the canvas of <b>Graphic Design</b>, evolved through the systems of <b>UI/UX</b>, <br/>and has now arrived at the frontier of <b>Vibe Coding</b>.
   <br/>
   I don't just write code; I orchestrate experiences. By blending deep visual principles with modern AI-assisted workflows, I build web interfaces that are not only functional but aesthetically immersive.
 </p>
@@ -39,10 +39,6 @@
 
 <br/>
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenewu1019&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999" />
-</p>
 
 <br/>
 
@@ -55,7 +51,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/owenwuwork">
     <img src="https://img.shields.io/badge/Let's_Vibe-Connect_on_LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
