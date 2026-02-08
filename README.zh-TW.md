@@ -176,23 +176,14 @@
 ## 📊 GitHub 活動
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenewu1019&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenewu1019&theme=tokyonight&hide_border=true" alt="GitHub 連續貼文" />
-</div>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
 
 <br/>
 
