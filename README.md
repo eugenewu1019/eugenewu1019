@@ -135,14 +135,14 @@
 ## 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/eugenewu1019/eugenewu1019/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eugenewu1019/eugenewu1019/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eugenewu1019/eugenewu1019/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eugenewu1019/eugenewu1019/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </div>
 
