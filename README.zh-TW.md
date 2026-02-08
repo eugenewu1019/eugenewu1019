@@ -176,14 +176,14 @@
 ## 📊 GitHub 活動
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" alt="GitHub 統計" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenewu1019&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="最常使用語言" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenewu1019&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenewu1019&theme=dark&hide_border=true&background=00000000&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub 連續貼文" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenewu1019&theme=tokyonight&hide_border=true" alt="GitHub 連續貼文" />
 </div>
 
 <br/>
@@ -221,7 +221,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eugenewu1019&style=for-the-badge&color=58a6ff" alt="個人資料瀏覽次數" />
+  <img src="https://komarev.com/ghpvc/?username=eugenewu1019&style=for-the-badge&color=blueviolet" alt="個人資料瀏覽次數" />
 </p>
 
 </div>
