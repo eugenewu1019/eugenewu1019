@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3><i>“From Pixel-Perfect Graphics to Flow-State Development.”</i></h3>
+<h3><i>"From Pixel-Perfect Graphics to Flow-State Development."</i></h3>
 
 <br/>
 
@@ -20,7 +20,7 @@
   My journey began on the canvas of <b>Graphic Design</b>, evolved through the systems of <b>UI/UX</b>,<br/>
   and has now arrived at the frontier of <b>Vibe Coding</b>.
   <br/><br/>
-  I don’t just write code; I orchestrate experiences. By blending deep visual principles with modern AI-assisted workflows,<br/>
+  I don't just write code; I orchestrate experiences. By blending deep visual principles with modern AI-assisted workflows,<br/>
   I build web interfaces that are not only functional but aesthetically immersive.
 </p>
 
@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧊 Monolith</h3>
+      <h3 align="center">🧪 Monolith</h3>
       <p align="center">
         <a href="https://github.com/eugenewu1019/monolith">
           <img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" />
@@ -197,9 +197,6 @@
   </a>
   <a href="https://github.com/eugenewu1019">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://eugenewu1019.github.io/techsavvy/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
