@@ -135,7 +135,7 @@
 ## 📊 統計數據與活動 (Stats & Activity)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugenewu1019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugenewu1019&theme=tokyonight&hide_border=true&background=0a0a0a" alt="GitHub Streak" />
 </div>
 
 <div align="center">
