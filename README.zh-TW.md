@@ -173,8 +173,6 @@
 
 <br/>
 
-## 📊 GitHub 活動
-
 <div align="center">
 
 <picture>
