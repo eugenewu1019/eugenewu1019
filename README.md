@@ -173,8 +173,6 @@
 
 <br/>
 
-## 📊 GitHub Activity
-
 <div align="center">
 
 <picture>
