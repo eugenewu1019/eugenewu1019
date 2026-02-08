@@ -137,7 +137,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧊 Monolith</h3>
+      <h3 align="center">🧪 Monolith</h3>
       <p align="center">
         <a href="https://github.com/eugenewu1019/monolith">
           <img src="https://img.shields.io/badge/查看專案-black?style=for-the-badge&logo=github" />
@@ -197,9 +197,6 @@
   </a>
   <a href="https://github.com/eugenewu1019">
     <img src="https://img.shields.io/badge/GitHub-追蹤-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://eugenewu1019.github.io/techsavvy/">
-    <img src="https://img.shields.io/badge/作品集-參觀-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
