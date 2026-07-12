@@ -69,19 +69,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💻 Techsavvy</h3>
+      <h3 align="center">🪟 EUGENE DIGITAL STUDIO</h3>
       <p align="center">
-        <a href="https://github.com/eugenewu1019/techsavvy">
+        <a href="https://github.com/eugenewu1019/eugene-digital-studio">
           <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://eugenewu1019.github.io/techsavvy/">
+        <a href="https://eugenewu1019.github.io/eugene-digital-studio/">
           <img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        <strong>Futuristic IT Consultancy</strong><br/>
-        Glassmorphism, spotlight effects & trilingual support.<br/>
-        <em>HTML5 • TailwindCSS • Vanilla JS</em>
+        <strong>Independent Digital Studio Site</strong><br/>
+        Bilingual studio site with a mouse-driven motion layer & wireframe mode.<br/>
+        <em>HTML5 • Vanilla JS • CSS Tokens • i18n</em>
       </p>
     </td>
     <td width="50%">

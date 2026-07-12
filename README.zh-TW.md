@@ -69,19 +69,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💻 Techsavvy</h3>
+      <h3 align="center">🪟 尤金數位工作室</h3>
       <p align="center">
-        <a href="https://github.com/eugenewu1019/techsavvy">
+        <a href="https://github.com/eugenewu1019/eugene-digital-studio">
           <img src="https://img.shields.io/badge/查看專案-black?style=for-the-badge&logo=github" />
         </a>
-        <a href="https://eugenewu1019.github.io/techsavvy/">
+        <a href="https://eugenewu1019.github.io/eugene-digital-studio/">
           <img src="https://img.shields.io/badge/線上演示-success?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        <strong>未來感 IT 諮詢</strong><br/>
-        毛玻璃、聚光燈效果和三語系支援。<br/>
-        <em>HTML5 • TailwindCSS • Vanilla JS</em>
+        <strong>獨立數位工作室網站</strong><br/>
+        雙語工作室網站,具滑鼠驅動動態層與線框模式。<br/>
+        <em>HTML5 • Vanilla JS • CSS Tokens • i18n</em>
       </p>
     </td>
     <td width="50%">
